@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ...Chess Engine based on MINMAX alpha beta with ui in pygame
 - 🌱 I’m currently learning ... JavaScript
 ### Skills 
-   3D modeling -![](https://github.com/Parasmanithakur/Parasmanithakur/blob/main/Minion_Walk.mkv)
+   3D modeling -![](https://github.com/Parasmanithakur/Parasmanithakur/blob/main/3dModel.gif)
 
 <!--
 **Parasmanithakur/Parasmanithakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
