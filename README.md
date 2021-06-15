@@ -3,7 +3,7 @@
 <!--
 **Parasmanithakur/Parasmanithakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![alt-text](link)
+![alt-text](https://github.com/Parasmanithakur/Parasmanithakur/blob/main/bio.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
