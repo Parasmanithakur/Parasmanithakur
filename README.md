@@ -1,5 +1,5 @@
 ### Hi there 👋
-[](https://github.com/Parasmanithakur/Parasmanithakur/blob/main/bio.gif)
+![](https://github.com/Parasmanithakur/Parasmanithakur/blob/main/bio.gif)
 <!--
 **Parasmanithakur/Parasmanithakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
