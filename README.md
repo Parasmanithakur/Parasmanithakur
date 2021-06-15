@@ -7,11 +7,11 @@
 - Linkedin-https://www.linkedin.com/in/parasmani-thakur-97a70a1a2/ 
 - Email parasmani.thakur321@gmail.com
                       
-### ```
+### 
       include<knowlegde>
       import skills
       
-     ```
+     
     
   
 <!--
