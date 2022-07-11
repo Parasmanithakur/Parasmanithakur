@@ -10,8 +10,7 @@
                       
 ### 
       include<knowlegde>
-      import skills
-![](https://github.com/Parasmanithakur/Parasmanithakur/blob/main/3dModel.gif)     
+      import skills    
      
     
   
@@ -20,6 +19,7 @@
 
 Here are some ideas to get you started:
 
+![](https://github.com/Parasmanithakur/Parasmanithakur/blob/main/3dModel.gif) 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
