@@ -11,7 +11,7 @@
 ### 
       include<knowlegde>
       import skills
-https://github.com/Parasmanithakur/Parasmanithakur/blob/main/3dModel.gif)      
+![](https://github.com/Parasmanithakur/Parasmanithakur/blob/main/3dModel.gif)     
      
     
   
