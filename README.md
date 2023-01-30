@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning ... JavaScript
 - 💬 I haved worked with ... C/C++, C# ( for unity3D) ,python
 - 📫 How to reach me: ... 
-- Linkedin-https://www.linkedin.com/in/parasmani-thakur-97a70a1a2/ 
+- https://www.linkedin.com/in/parasmani-thakur-97a70a1a2/ 
 
-- Email parasmani.thakur321@gmail.com
+- parasmani.thakur321@gmail.com
                       
 ### 
       include<knowlegde>
