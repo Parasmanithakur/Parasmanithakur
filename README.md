@@ -1,8 +1,9 @@
 ###  👋
 ![](https://github.com/Parasmanithakur/Parasmanithakur/blob/main/bio.gif)
-- 🔭 I’m currently working on ...hBay- hostel bay a MERN project
-- 🌱 I’m currently learning ... JavaScript
-- 💬 I haved worked with ... C/C++, C# ( for unity3D) ,python
+- 🔭 I’m currently working on ... Algorithms
+- 🌱 I’m currently learning ... TypeScript,Angular,java and Spring
+- 💬 I haved worked with ... C/C++, C# ( for unity3D) ,python,MERN
+- 👯 I’m looking to collaborate on ... GameEngines for ZeroSumGames,Algorithms ,Decision Trees
 - 📫 How to reach me: ... 
 - https://www.linkedin.com/in/parasmani-thakur-97a70a1a2/ 
 
