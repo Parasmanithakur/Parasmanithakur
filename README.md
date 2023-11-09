@@ -1,7 +1,7 @@
 ###  👋
 ![](https://github.com/Parasmanithakur/Parasmanithakur/blob/main/bio.gif)
 - 🔭 I’m currently working on ... Algorithms
-- 🌱 I’m currently learning ... TypeScript,Angular,java and Spring
+- 🌱 I’m currently learning ... TypeScript,React,java and Spring
 - 💬 I haved worked with ... C/C++, C# ( for unity3D) ,python,MERN
 - 👯 I’m looking to collaborate on ... GameEngines for ZeroSumGames,Algorithms ,Decision Trees
 - 📫 How to reach me: ... 
